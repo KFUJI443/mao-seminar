@@ -6,7 +6,7 @@ https://elmas3.github.io/mao-seminar/
 真央教授
 エルマス
 わかば
-WAON＋
+WAON-
 
 # ディレクトリ構成
 ```
